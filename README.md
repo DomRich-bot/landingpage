@@ -1,7 +1,8 @@
 # landingpage
 Landing page project,TOP
+
 Set up using mostly flexbox techniques, solidifed a lot of the knowledge gained over the past lessons.
-Building from scratch was a good learning experience, google wa still my best friend for the things I couldn't get quite right.
+Building from scratch was a good learning experience, google was still my best friend for the things I couldn't get quite right.
 Not perfect but all in all i'm happy with the outcome. Time to keep working and improving.
 
 
